@@ -56,7 +56,3 @@ docker run -p 8000:8000 ml-fastapi
 ## 🔐 Authentication
 
 - Add a header: `Authorization: Bearer your-secret-token`
-
----
-
-🔥 Built with FastAPI, Scikit-learn, and Docker.
